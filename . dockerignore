@@ -1,0 +1,14 @@
+# Ignore the backup directory
+backup/
+
+# Ignore all .md files
+*.md
+
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore cache
+__pycache__/
